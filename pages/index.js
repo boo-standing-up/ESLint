@@ -37,7 +37,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/master/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
+            <h2>ESLint &rarr;</h2>
             <p>Discover and deploy boilerplate example Next.js projects.</p>
           </a>
 
